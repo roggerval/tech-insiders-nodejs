@@ -1,0 +1,92 @@
+{
+  "name": "tech-insiders-nodejs",
+  "version": "1.0.0",
+  "description": "administrar permisos con graphql",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.18.1",
+    "npm": ">=6.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "npm-run-all pretty:quick lint:staged",
+    "eslint:fix": "./node_modules/.bin/eslint . --ignore-path .gitignore --fix",
+    "prettier:fix": "./node_modules/.bin/prettier **/*.{js,json} --write --ignore-path .gitignore",
+    "pretty:quick": "./node_modules/.bin/pretty-quick --staged",
+    "lint:staged": "./node_modules/.bin/lint-staged",
+    "migrate": "env-cmd -f .env node_modules/.bin/sequelize-cli db:migrate",
+    "undo:migrate": "env-cmd -f .env node_modules/.bin/sequelize-cli db:migrate:undo:all",
+    "seed": "env-cmd -f .env node_modules/.bin/sequelize-cli db:seed:all",
+    "undo:seed": "env-cmd -f .env node_modules/.bin/sequelize-cli db:seed:undo:all",
+    "wipe": "npm-run-all undo:migrate migrate seed",
+    "docker:rebuild": "docker-compose build --no-cache",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "start": "nodemon --exec env-cmd -f .env babel-node index.js",
+    "cm": "git cz"
+  },
+  "keywords": [
+    "graphql",
+    "iam-policies",
+    "directives"
+  ],
+  "author": "roggerval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roggerval/tech-insiders-nodejs"
+  },
+  "homepage": "https://github.com/roggerval/tech-insiders-nodejs#readme",
+  "dependencies": {
+    "apollo-server": "^2.15.0",
+    "graphql": "^14.6.0",
+    "graphql-fields": "^2.0.3",
+    "iam-policies": "3.3.0",
+    "knex": "^0.21.1",
+    "merge-graphql-schemas": "^1.7.6",
+    "objection": "^2.1.3",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/node": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "babel-eslint": "^10.1.0",
+    "commitizen": "^4.0.5",
+    "cz-conventional-changelog": "^3.1.0",
+    "env-cmd": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-react": "^7.20.0",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.2.7",
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1",
+    "rimraf": "^3.0.2",
+    "sequelize": "^5.21.13",
+    "sequelize-cli": "^5.5.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "lint-staged": {
+    "*.js": "yarn eslint:fix"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "yarn pretest"
+    }
+  }
+}

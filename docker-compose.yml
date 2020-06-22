@@ -1,0 +1,16 @@
+version: '3.1'
+services:
+  database:
+    image: postgres
+    networks:
+      - tech_net
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=contra
+      - POSTGRES_DB=postgres
+    ports:
+      - '54320:5432'
+    container_name: tech_insiders_db-test
+networks:
+  tech_net:
+    driver: bridge

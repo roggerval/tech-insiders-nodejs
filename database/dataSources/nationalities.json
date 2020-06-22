@@ -1,0 +1,2126 @@
+[
+  {
+    "alpha": "AF",
+    "country": "Afganistán",
+    "iso": "Afganistán",
+    "numerical_code": 4,
+    "alpha2": "AFG",
+    "demonym": "Afgano",
+    "demonym2": "Afgana"
+  },
+  {
+    "alpha": "AL",
+    "country": "Albania",
+    "iso": "Albania",
+    "numerical_code": 8,
+    "alpha2": "ALB",
+    "demonym": "Albanés",
+    "demonym2": "Albanesa"
+  },
+  {
+    "alpha": "DE",
+    "country": "Alemania",
+    "iso": "Alemania",
+    "numerical_code": 276,
+    "alpha2": "DEU",
+    "demonym": "Alemán",
+    "demonym2": "Alemana"
+  },
+  {
+    "alpha": "AD",
+    "country": "Andorra",
+    "iso": "Andorra",
+    "numerical_code": 20,
+    "alpha2": "AND",
+    "demonym": "Andorrano",
+    "demonym2": "Andorrana"
+  },
+  {
+    "alpha": "AO",
+    "country": "Angola",
+    "iso": "Angola",
+    "numerical_code": 24,
+    "alpha2": "AGO",
+    "demonym": "Angoleño",
+    "demonym2": "Angoleña"
+  },
+  {
+    "alpha": "AI",
+    "country": "Anguila",
+    "iso": "Anguila",
+    "numerical_code": 660,
+    "alpha2": "AIA",
+    "demonym": "Anguilense",
+    "demonym2": "Anguilense"
+  },
+  {
+    "alpha": "AQ",
+    "country": "Antártida",
+    "iso": "Antártida",
+    "numerical_code": 10,
+    "alpha2": "ATA",
+    "demonym": "Antártico",
+    "demonym2": "Antártica"
+  },
+  {
+    "alpha": "AG",
+    "country": "Antigua y Barbuda",
+    "iso": "Antigua y Barbuda",
+    "numerical_code": 28,
+    "alpha2": "ATG",
+    "demonym": "Antiguano",
+    "demonym2": "Antiguana"
+  },
+  {
+    "alpha": "SA",
+    "country": "Arabia Saudita",
+    "iso": "Arabia Saudita",
+    "numerical_code": 682,
+    "alpha2": "SAU",
+    "demonym": "Saudí",
+    "demonym2": "Saudí"
+  },
+  {
+    "alpha": "DZ",
+    "country": "Argelia",
+    "iso": "Argelia",
+    "numerical_code": 12,
+    "alpha2": "DZA",
+    "demonym": "Argelino",
+    "demonym2": "Argelina"
+  },
+  {
+    "alpha": "AR",
+    "country": "Argentina",
+    "iso": "Argentina",
+    "numerical_code": 32,
+    "alpha2": "ARG",
+    "demonym": "Argentino",
+    "demonym2": "Argentina"
+  },
+  {
+    "alpha": "AM",
+    "country": "Armenia",
+    "iso": "Armenia",
+    "numerical_code": 51,
+    "alpha2": "ARM",
+    "demonym": "Armenio",
+    "demonym2": "Armenia"
+  },
+  {
+    "alpha": "AW",
+    "country": "Aruba",
+    "iso": "Aruba",
+    "numerical_code": 533,
+    "alpha2": "ABW",
+    "demonym": "Arubeño",
+    "demonym2": "Arubeña"
+  },
+  {
+    "alpha": "AU",
+    "country": "Australia",
+    "iso": "Australia",
+    "numerical_code": 36,
+    "alpha2": "AUS",
+    "demonym": "Australiano",
+    "demonym2": "Australiana"
+  },
+  {
+    "alpha": "AT",
+    "country": "Austria",
+    "iso": "Austria",
+    "numerical_code": 40,
+    "alpha2": "AUT",
+    "demonym": "Austriaco",
+    "demonym2": "Austriaca"
+  },
+  {
+    "alpha": "AZ",
+    "country": "Azerbaiyán",
+    "iso": "Azerbaiyán",
+    "numerical_code": 31,
+    "alpha2": "AZE",
+    "demonym": "Azerbaiyano",
+    "demonym2": "Azerbaiyana"
+  },
+  {
+    "alpha": "BS",
+    "country": "Bahamas",
+    "iso": "Bahamas (las)",
+    "numerical_code": 44,
+    "alpha2": "BHS",
+    "demonym": "Bahameño",
+    "demonym2": "Bahameña"
+  },
+  {
+    "alpha": "BH",
+    "country": "Baréin",
+    "iso": "Bahrein",
+    "numerical_code": 48,
+    "alpha2": "BHR",
+    "demonym": "Bareiní",
+    "demonym2": "Bareiní"
+  },
+  {
+    "alpha": "BD",
+    "country": "Bangladés",
+    "iso": "Bangladesh",
+    "numerical_code": 50,
+    "alpha2": "BGD",
+    "demonym": "Bangladesí",
+    "demonym2": "Bangladesí"
+  },
+  {
+    "alpha": "BB",
+    "country": "Barbados",
+    "iso": "Barbados",
+    "numerical_code": 52,
+    "alpha2": "BRB",
+    "demonym": "Barbadense",
+    "demonym2": "Barbadense"
+  },
+  {
+    "alpha": "BY",
+    "country": "Bielorrusia",
+    "iso": "Belarús",
+    "numerical_code": 112,
+    "alpha2": "BLR",
+    "demonym": "Bielorruso",
+    "demonym2": "Bielorrusa"
+  },
+  {
+    "alpha": "BE",
+    "country": "Bélgica",
+    "iso": "Bélgica",
+    "numerical_code": 56,
+    "alpha2": "BEL",
+    "demonym": "Belga",
+    "demonym2": "Belga"
+  },
+  {
+    "alpha": "BZ",
+    "country": "Belice",
+    "iso": "Belice",
+    "numerical_code": 84,
+    "alpha2": "BLZ",
+    "demonym": "Beliceño",
+    "demonym2": "Beliceña"
+  },
+  {
+    "alpha": "BJ",
+    "country": "Benín",
+    "iso": "Benin",
+    "numerical_code": 204,
+    "alpha2": "BEN",
+    "demonym": "Beninés",
+    "demonym2": "Beninesa"
+  },
+  {
+    "alpha": "BM",
+    "country": "Bermudas",
+    "iso": "Bermudas",
+    "numerical_code": 60,
+    "alpha2": "BMU",
+    "demonym": "Bermudeño",
+    "demonym2": "Bermudeña"
+  },
+  {
+    "alpha": "BT",
+    "country": "Bután",
+    "iso": "Bhután",
+    "numerical_code": 64,
+    "alpha2": "BTN",
+    "demonym": "Butanés",
+    "demonym2": "Butanesa"
+  },
+  {
+    "alpha": "BO",
+    "country": "Bolivia",
+    "iso": "Bolivia (Estado Plurinacional de)",
+    "numerical_code": 68,
+    "alpha2": "BOL",
+    "demonym": "Boliviano",
+    "demonym2": "Boliviana"
+  },
+  {
+    "alpha": "BA",
+    "country": "Bosnia y Herzegovina",
+    "iso": "Bosnia y Herzegovina",
+    "numerical_code": 70,
+    "alpha2": "BIH",
+    "demonym": "Bosnio",
+    "demonym2": "Bosnia"
+  },
+  {
+    "alpha": "BW",
+    "country": "Botsuana",
+    "iso": "Botswana",
+    "numerical_code": 72,
+    "alpha2": "BWA",
+    "demonym": "Botsuano",
+    "demonym2": "Botsuana"
+  },
+  {
+    "alpha": "BR",
+    "country": "Brasil",
+    "iso": "Brasil",
+    "numerical_code": 76,
+    "alpha2": "BRA",
+    "demonym": "Brasileño",
+    "demonym2": "Brasileña"
+  },
+  {
+    "alpha": "BN",
+    "country": "Brunéi",
+    "iso": "Brunei Darussalam",
+    "numerical_code": 96,
+    "alpha2": "BRN",
+    "demonym": "Bruneano",
+    "demonym2": "Bruneana"
+  },
+  {
+    "alpha": "BG",
+    "country": "Bulgaria",
+    "iso": "Bulgaria",
+    "numerical_code": 100,
+    "alpha2": "BGR",
+    "demonym": "Búlgaro",
+    "demonym2": "Búlgara"
+  },
+  {
+    "alpha": "BF",
+    "country": "Burkina Faso",
+    "iso": "Burkina Faso",
+    "numerical_code": 854,
+    "alpha2": "BFA",
+    "demonym": "Burkinés",
+    "demonym2": "Burkinés"
+  },
+  {
+    "alpha": "BI",
+    "country": "Burundi",
+    "iso": "Burundi",
+    "numerical_code": 108,
+    "alpha2": "BDI",
+    "demonym": "Burundés",
+    "demonym2": "Burundés"
+  },
+  {
+    "alpha": "CV",
+    "country": "Cabo Verde",
+    "iso": "Cabo Verde",
+    "numerical_code": 132,
+    "alpha2": "CPV",
+    "demonym": "Caboverdiano",
+    "demonym2": "Caboverdiana"
+  },
+  {
+    "alpha": "KY",
+    "country": "Islas Caimán",
+    "iso": "Caimán, (las) Islas",
+    "numerical_code": 136,
+    "alpha2": "CYM",
+    "demonym": "Caimanés",
+    "demonym2": "Caimanés"
+  },
+  {
+    "alpha": "KH",
+    "country": "Camboya",
+    "iso": "Camboya",
+    "numerical_code": 116,
+    "alpha2": "KHM",
+    "demonym": "Camboyano",
+    "demonym2": "Camboyana"
+  },
+  {
+    "alpha": "CM",
+    "country": "Camerún",
+    "iso": "Camerún",
+    "numerical_code": 120,
+    "alpha2": "CMR",
+    "demonym": "Camerunés",
+    "demonym2": "Camerunesa"
+  },
+  {
+    "alpha": "CA",
+    "country": "Canadá",
+    "iso": "Canadá",
+    "numerical_code": 124,
+    "alpha2": "CAN",
+    "demonym": "Canadiense",
+    "demonym2": "Canadiense"
+  },
+  {
+    "alpha": "TD",
+    "country": "Chad",
+    "iso": "Chad",
+    "numerical_code": 148,
+    "alpha2": "TCD",
+    "demonym": "Chadiano",
+    "demonym2": "Chadiana"
+  },
+  {
+    "alpha": "CZ",
+    "country": "República Checa",
+    "iso": "Chequia",
+    "numerical_code": 203,
+    "alpha2": "CZE",
+    "demonym": "Checo",
+    "demonym2": "Checa"
+  },
+  {
+    "alpha": "CL",
+    "country": "Chile",
+    "iso": "Chile",
+    "numerical_code": 152,
+    "alpha2": "CHL",
+    "demonym": "Chileno",
+    "demonym2": "Chilena"
+  },
+  {
+    "alpha": "CN",
+    "country": "China",
+    "iso": "China",
+    "numerical_code": 156,
+    "alpha2": "CHN",
+    "demonym": "Chino",
+    "demonym2": "China"
+  },
+  {
+    "alpha": "CY",
+    "country": "Chipre",
+    "iso": "Chipre",
+    "numerical_code": 196,
+    "alpha2": "CYP",
+    "demonym": "Chipriota",
+    "demonym2": "Chipriota"
+  },
+  {
+    "alpha": "CC",
+    "country": "Islas Cocos",
+    "iso": "Cocos / Keeling, (las) Islas",
+    "numerical_code": 166,
+    "alpha2": "CCK",
+    "demonym": "Cocano",
+    "demonym2": "Cocana"
+  },
+  {
+    "alpha": "CO",
+    "country": "Colombia",
+    "iso": "Colombia",
+    "numerical_code": 170,
+    "alpha2": "COL",
+    "demonym": "Colombiano",
+    "demonym2": "Colombiana"
+  },
+  {
+    "alpha": "KM",
+    "country": "Comoras",
+    "iso": "Comoras (las)",
+    "numerical_code": 174,
+    "alpha2": "COM",
+    "demonym": "Comorense",
+    "demonym2": "Comorense"
+  },
+  {
+    "alpha": "CG",
+    "country": "República del Congo",
+    "iso": "Congo (el)",
+    "numerical_code": 178,
+    "alpha2": "COG",
+    "demonym": "Congoleño",
+    "demonym2": "Congoleña"
+  },
+  {
+    "alpha": "CD",
+    "country": "República Democrática del Congo",
+    "iso": "Congo (la República Democrática del)",
+    "numerical_code": 180,
+    "alpha2": "COD",
+    "demonym": "Congoleño",
+    "demonym2": "Congoleña"
+  },
+  {
+    "alpha": "CK",
+    "country": "Islas Cook",
+    "iso": "Cook, (las) Islas",
+    "numerical_code": 184,
+    "alpha2": "COK",
+    "demonym": "Cookiano",
+    "demonym2": "Cookiana"
+  },
+  {
+    "alpha": "KR",
+    "country": "Corea del Sur",
+    "iso": "Corea (la República de)",
+    "numerical_code": 410,
+    "alpha2": "KOR",
+    "demonym": "Surcoreano",
+    "demonym2": "Surcoreana"
+  },
+  {
+    "alpha": "KP",
+    "country": "Corea del Norte",
+    "iso": "Corea (la República Popular Democrática de)",
+    "numerical_code": 408,
+    "alpha2": "PRK",
+    "demonym": "Norcoreano",
+    "demonym2": "Norcoreana"
+  },
+  {
+    "alpha": "CR",
+    "country": "Costa Rica",
+    "iso": "Costa Rica",
+    "numerical_code": 188,
+    "alpha2": "CRI",
+    "demonym": "Costarricense",
+    "demonym2": "Costarricense"
+  },
+  {
+    "alpha": "CI",
+    "country": "Costa de Marfil",
+    "iso": "Côte d'Ivoire",
+    "numerical_code": 384,
+    "alpha2": "CIV",
+    "demonym": "Marfileño",
+    "demonym2": "Marfileña"
+  },
+  {
+    "alpha": "HR",
+    "country": "Croacia",
+    "iso": "Croacia",
+    "numerical_code": 191,
+    "alpha2": "HRV",
+    "demonym": "Croata",
+    "demonym2": "Croata"
+  },
+  {
+    "alpha": "CU",
+    "country": "Cuba",
+    "iso": "Cuba",
+    "numerical_code": 192,
+    "alpha2": "CUB",
+    "demonym": "Cubano",
+    "demonym2": "Cubana"
+  },
+  {
+    "alpha": "CW",
+    "country": "Curazao",
+    "iso": "Curaçao",
+    "numerical_code": 531,
+    "alpha2": "CUW",
+    "demonym": "Curazoleño",
+    "demonym2": "Curazoleña"
+  },
+  {
+    "alpha": "DK",
+    "country": "Dinamarca",
+    "iso": "Dinamarca",
+    "numerical_code": 208,
+    "alpha2": "DNK",
+    "demonym": "Danés",
+    "demonym2": "Danesa"
+  },
+  {
+    "alpha": "DJ",
+    "country": "Yibuti",
+    "iso": "Djibouti",
+    "numerical_code": 262,
+    "alpha2": "DJI",
+    "demonym": "Yibutiano",
+    "demonym2": "Yibutiana"
+  },
+  {
+    "alpha": "DM",
+    "country": "Dominica",
+    "iso": "Dominica",
+    "numerical_code": 212,
+    "alpha2": "DMA",
+    "demonym": "Dominiqués",
+    "demonym2": "Dominiqués"
+  },
+  {
+    "alpha": "DO",
+    "country": "República Dominicana",
+    "iso": "Dominicana, (la) República",
+    "numerical_code": 214,
+    "alpha2": "DOM",
+    "demonym": "Dominicano",
+    "demonym2": "Dominicana"
+  },
+  {
+    "alpha": "EC",
+    "country": "Ecuador",
+    "iso": "Ecuador",
+    "numerical_code": 218,
+    "alpha2": "ECU",
+    "demonym": "Ecuatoriano",
+    "demonym2": "Ecuatoriana"
+  },
+  {
+    "alpha": "EG",
+    "country": "Egipto",
+    "iso": "Egipto",
+    "numerical_code": 818,
+    "alpha2": "EGY",
+    "demonym": "Egipcio",
+    "demonym2": "Egipcia"
+  },
+  {
+    "alpha": "SV",
+    "country": "El Salvador",
+    "iso": "El Salvador",
+    "numerical_code": 222,
+    "alpha2": "SLV",
+    "demonym": "Salvadoreño",
+    "demonym2": "Salvadoreña"
+  },
+  {
+    "alpha": "AE",
+    "country": "Emiratos Árabes Unidos",
+    "iso": "Emiratos Árabes Unidos (los)",
+    "numerical_code": 784,
+    "alpha2": "ARE",
+    "demonym": "Emiratí",
+    "demonym2": "Emiratí"
+  },
+  {
+    "alpha": "ER",
+    "country": "Eritrea",
+    "iso": "Eritrea",
+    "numerical_code": 232,
+    "alpha2": "ERI",
+    "demonym": "Eritreo",
+    "demonym2": "Eritrea"
+  },
+  {
+    "alpha": "SK",
+    "country": "Eslovaquia",
+    "iso": "Eslovaquia",
+    "numerical_code": 703,
+    "alpha2": "SVK",
+    "demonym": "Eslovaco",
+    "demonym2": "Eslovaca"
+  },
+  {
+    "alpha": "SI",
+    "country": "Eslovenia",
+    "iso": "Eslovenia",
+    "numerical_code": 705,
+    "alpha2": "SVN",
+    "demonym": "Esloveno",
+    "demonym2": "Eslovena"
+  },
+  {
+    "alpha": "ES",
+    "country": "España",
+    "iso": "España",
+    "numerical_code": 724,
+    "alpha2": "ESP",
+    "demonym": "Español",
+    "demonym2": "Española"
+  },
+  {
+    "alpha": "US",
+    "country": "Estados Unidos",
+    "iso": "Estados Unidos de América (los)",
+    "numerical_code": 840,
+    "alpha2": "USA",
+    "demonym": "Estadounidense",
+    "demonym2": "Estadounidense"
+  },
+  {
+    "alpha": "EE",
+    "country": "Estonia",
+    "iso": "Estonia",
+    "numerical_code": 233,
+    "alpha2": "EST",
+    "demonym": "Estonio",
+    "demonym2": "Estonia"
+  },
+  {
+    "alpha": "ET",
+    "country": "Etiopía",
+    "iso": "Etiopía",
+    "numerical_code": 231,
+    "alpha2": "ETH",
+    "demonym": "Etíope",
+    "demonym2": "Etíope"
+  },
+  {
+    "alpha": "FO",
+    "country": "Islas Feroe",
+    "iso": "Feroe, (las) Islas",
+    "numerical_code": 234,
+    "alpha2": "FRO",
+    "demonym": "Feroés",
+    "demonym2": "Feroés"
+  },
+  {
+    "alpha": "FJ",
+    "country": "Fiyi",
+    "iso": "Fiji",
+    "numerical_code": 242,
+    "alpha2": "FJI",
+    "demonym": "Fiyiano",
+    "demonym2": "Fiyiana"
+  },
+  {
+    "alpha": "PH",
+    "country": "Filipinas",
+    "iso": "Filipinas (las)",
+    "numerical_code": 608,
+    "alpha2": "PHL",
+    "demonym": "Filipino",
+    "demonym2": "Filipina"
+  },
+  {
+    "alpha": "FI",
+    "country": "Finlandia",
+    "iso": "Finlandia",
+    "numerical_code": 246,
+    "alpha2": "FIN",
+    "demonym": "Finlandés",
+    "demonym2": "Finlandesa"
+  },
+  {
+    "alpha": "FR",
+    "country": "Francia",
+    "iso": "Francia",
+    "numerical_code": 250,
+    "alpha2": "FRA",
+    "demonym": "Francés",
+    "demonym2": "Francesa"
+  },
+  {
+    "alpha": "GA",
+    "country": "Gabón",
+    "iso": "Gabón",
+    "numerical_code": 266,
+    "alpha2": "GAB",
+    "demonym": "Gabonés",
+    "demonym2": "Gabonesa"
+  },
+  {
+    "alpha": "GM",
+    "country": "Gambia",
+    "iso": "Gambia (la)",
+    "numerical_code": 270,
+    "alpha2": "GMB",
+    "demonym": "Gambiano",
+    "demonym2": "Gambiana"
+  },
+  {
+    "alpha": "GE",
+    "country": "Georgia",
+    "iso": "Georgia",
+    "numerical_code": 268,
+    "alpha2": "GEO",
+    "demonym": "Georgiano",
+    "demonym2": "Georgiana"
+  },
+  {
+    "alpha": "GH",
+    "country": "Ghana",
+    "iso": "Ghana",
+    "numerical_code": 288,
+    "alpha2": "GHA",
+    "demonym": "Ghanés",
+    "demonym2": "Ghanesa"
+  },
+  {
+    "alpha": "GI",
+    "country": "Gibraltar",
+    "iso": "Gibraltar",
+    "numerical_code": 292,
+    "alpha2": "GIB",
+    "demonym": "Gibraltareño",
+    "demonym2": "Gibraltareña"
+  },
+  {
+    "alpha": "GD",
+    "country": "Granada",
+    "iso": "Granada",
+    "numerical_code": 308,
+    "alpha2": "GRD",
+    "demonym": "Granadino",
+    "demonym2": "Granadina"
+  },
+  {
+    "alpha": "GR",
+    "country": "Grecia",
+    "iso": "Grecia",
+    "numerical_code": 300,
+    "alpha2": "GRC",
+    "demonym": "Griego",
+    "demonym2": "Griega"
+  },
+  {
+    "alpha": "GL",
+    "country": "Groenlandia",
+    "iso": "Groenlandia",
+    "numerical_code": 304,
+    "alpha2": "GRL",
+    "demonym": "Groenlandés",
+    "demonym2": "Groenlandés"
+  },
+  {
+    "alpha": "GU",
+    "country": "Guam",
+    "iso": "Guam",
+    "numerical_code": 316,
+    "alpha2": "GUM",
+    "demonym": "Guameño",
+    "demonym2": "Guameña"
+  },
+  {
+    "alpha": "GT",
+    "country": "Guatemala",
+    "iso": "Guatemala",
+    "numerical_code": 320,
+    "alpha2": "GTM",
+    "demonym": "Guatemalteco",
+    "demonym2": "Guatemalteca"
+  },
+  {
+    "alpha": "GF",
+    "country": "Guayana Francesa",
+    "iso": "Guayana Francesa",
+    "numerical_code": 254,
+    "alpha2": "GUF",
+    "demonym": "Francoguyanés",
+    "demonym2": "Francoguyanés"
+  },
+  {
+    "alpha": "GG",
+    "country": "Guernsey",
+    "iso": "Guernsey",
+    "numerical_code": 831,
+    "alpha2": "GGY",
+    "demonym": "Guerneseyés",
+    "demonym2": "Guerneseyés"
+  },
+  {
+    "alpha": "GN",
+    "country": "Guinea",
+    "iso": "Guinea",
+    "numerical_code": 324,
+    "alpha2": "GIN",
+    "demonym": "Guineano",
+    "demonym2": "Guineana"
+  },
+  {
+    "alpha": "GW",
+    "country": "Guinea-Bisáu",
+    "iso": "Guinea Bissau",
+    "numerical_code": 624,
+    "alpha2": "GNB",
+    "demonym": "Guineano",
+    "demonym2": "Guineana"
+  },
+  {
+    "alpha": "GQ",
+    "country": "Guinea Ecuatorial",
+    "iso": "Guinea Ecuatorial",
+    "numerical_code": 226,
+    "alpha2": "GNQ",
+    "demonym": "Guineano",
+    "demonym2": "Guineana"
+  },
+  {
+    "alpha": "GY",
+    "country": "Guyana",
+    "iso": "Guyana",
+    "numerical_code": 328,
+    "alpha2": "GUY",
+    "demonym": "Guyanés",
+    "demonym2": "Guyanesa"
+  },
+  {
+    "alpha": "HT",
+    "country": "Haití",
+    "iso": "Haití",
+    "numerical_code": 332,
+    "alpha2": "HTI",
+    "demonym": "Haitiano",
+    "demonym2": "Haitiana"
+  },
+  {
+    "alpha": "HN",
+    "country": "Honduras",
+    "iso": "Honduras",
+    "numerical_code": 340,
+    "alpha2": "HND",
+    "demonym": "Hondureño",
+    "demonym2": "Hondureña"
+  },
+  {
+    "alpha": "HK",
+    "country": "Hong Kong",
+    "iso": "Hong Kong",
+    "numerical_code": 344,
+    "alpha2": "HKG",
+    "demonym": "Hongkonés",
+    "demonym2": "Hongkonés"
+  },
+  {
+    "alpha": "HU",
+    "country": "Hungría",
+    "iso": "Hungría",
+    "numerical_code": 348,
+    "alpha2": "HUN",
+    "demonym": "Húngaro",
+    "demonym2": "Húngara"
+  },
+  {
+    "alpha": "IN",
+    "country": "India",
+    "iso": "India",
+    "numerical_code": 356,
+    "alpha2": "IND",
+    "demonym": "Indio",
+    "demonym2": "India"
+  },
+  {
+    "alpha": "ID",
+    "country": "Indonesia",
+    "iso": "Indonesia",
+    "numerical_code": 360,
+    "alpha2": "IDN",
+    "demonym": "Indonesio",
+    "demonym2": "Indonesia"
+  },
+  {
+    "alpha": "IR",
+    "country": "Irán",
+    "iso": "Irán (República Islámica de)",
+    "numerical_code": 364,
+    "alpha2": "IRN",
+    "demonym": "Iraní",
+    "demonym2": "Iraní"
+  },
+  {
+    "alpha": "IQ",
+    "country": "Irak",
+    "iso": "Iraq",
+    "numerical_code": 368,
+    "alpha2": "IRQ",
+    "demonym": "Iraquí",
+    "demonym2": "Iraquí"
+  },
+  {
+    "alpha": "IE",
+    "country": "Irlanda",
+    "iso": "Irlanda",
+    "numerical_code": 372,
+    "alpha2": "IRL",
+    "demonym": "Irlandés",
+    "demonym2": "Irlandesa"
+  },
+  {
+    "alpha": "IM",
+    "country": "Isla de Man",
+    "iso": "Isla de Man",
+    "numerical_code": 833,
+    "alpha2": "IMN",
+    "demonym": "Manés",
+    "demonym2": "Manés"
+  },
+  {
+    "alpha": "IS",
+    "country": "Islandia",
+    "iso": "Islandia",
+    "numerical_code": 352,
+    "alpha2": "ISL",
+    "demonym": "Islandés",
+    "demonym2": "Islandesa"
+  },
+  {
+    "alpha": "IL",
+    "country": "Israel",
+    "iso": "Israel",
+    "numerical_code": 376,
+    "alpha2": "ISR",
+    "demonym": "Israelí",
+    "demonym2": "Israelí"
+  },
+  {
+    "alpha": "IT",
+    "country": "Italia",
+    "iso": "Italia",
+    "numerical_code": 380,
+    "alpha2": "ITA",
+    "demonym": "Italiano",
+    "demonym2": "Italiana"
+  },
+  {
+    "alpha": "JM",
+    "country": "Jamaica",
+    "iso": "Jamaica",
+    "numerical_code": 388,
+    "alpha2": "JAM",
+    "demonym": "Jamaicano",
+    "demonym2": "Jamaicana"
+  },
+  {
+    "alpha": "JP",
+    "country": "Japón",
+    "iso": "Japón",
+    "numerical_code": 392,
+    "alpha2": "JPN",
+    "demonym": "Japonés",
+    "demonym2": "Japonesa"
+  },
+  {
+    "alpha": "JE",
+    "country": "Jersey",
+    "iso": "Jersey",
+    "numerical_code": 832,
+    "alpha2": "JEY",
+    "demonym": "Jerseyés",
+    "demonym2": "Jerseyés"
+  },
+  {
+    "alpha": "JO",
+    "country": "Jordania",
+    "iso": "Jordania",
+    "numerical_code": 400,
+    "alpha2": "JOR",
+    "demonym": "Jordano",
+    "demonym2": "Jordana"
+  },
+  {
+    "alpha": "KZ",
+    "country": "Kazajistán",
+    "iso": "Kazajstán",
+    "numerical_code": 398,
+    "alpha2": "KAZ",
+    "demonym": "Kazajo",
+    "demonym2": "Kazaja"
+  },
+  {
+    "alpha": "KE",
+    "country": "Kenia",
+    "iso": "Kenya",
+    "numerical_code": 404,
+    "alpha2": "KEN",
+    "demonym": "Keniano",
+    "demonym2": "Keniana"
+  },
+  {
+    "alpha": "KG",
+    "country": "Kirguistán",
+    "iso": "Kirguistán",
+    "numerical_code": 417,
+    "alpha2": "KGZ",
+    "demonym": "Kirguís",
+    "demonym2": "Kirguís"
+  },
+  {
+    "alpha": "KI",
+    "country": "Kiribati",
+    "iso": "Kiribati",
+    "numerical_code": 296,
+    "alpha2": "KIR",
+    "demonym": "Kiribatiano",
+    "demonym2": "Kiribatiana"
+  },
+  {
+    "alpha": "KW",
+    "country": "Kuwait",
+    "iso": "Kuwait",
+    "numerical_code": 414,
+    "alpha2": "KWT",
+    "demonym": "Kuwaití",
+    "demonym2": "Kuwaití"
+  },
+  {
+    "alpha": "LA",
+    "country": "Laos",
+    "iso": "Lao, (la) República Democrática Popular",
+    "numerical_code": 418,
+    "alpha2": "LAO",
+    "demonym": "Laosiano",
+    "demonym2": "Laosiana"
+  },
+  {
+    "alpha": "LS",
+    "country": "Lesoto",
+    "iso": "Lesotho",
+    "numerical_code": 426,
+    "alpha2": "LSO",
+    "demonym": "Lesotense",
+    "demonym2": "Lesotense"
+  },
+  {
+    "alpha": "LV",
+    "country": "Letonia",
+    "iso": "Letonia",
+    "numerical_code": 428,
+    "alpha2": "LVA",
+    "demonym": "Letón",
+    "demonym2": "Letona"
+  },
+  {
+    "alpha": "LB",
+    "country": "Líbano",
+    "iso": "Líbano",
+    "numerical_code": 422,
+    "alpha2": "LBN",
+    "demonym": "Libanés",
+    "demonym2": "Libanesa"
+  },
+  {
+    "alpha": "LR",
+    "country": "Liberia",
+    "iso": "Liberia",
+    "numerical_code": 430,
+    "alpha2": "LBR",
+    "demonym": "Liberiano",
+    "demonym2": "Liberiana"
+  },
+  {
+    "alpha": "LY",
+    "country": "Libia",
+    "iso": "Libia",
+    "numerical_code": 434,
+    "alpha2": "LBY",
+    "demonym": "Libio",
+    "demonym2": "Libia"
+  },
+  {
+    "alpha": "LI",
+    "country": "Liechtenstein",
+    "iso": "Liechtenstein",
+    "numerical_code": 438,
+    "alpha2": "LIE",
+    "demonym": "Liechtensteiniano",
+    "demonym2": "Liechtensteiniana"
+  },
+  {
+    "alpha": "LT",
+    "country": "Lituania",
+    "iso": "Lituania",
+    "numerical_code": 440,
+    "alpha2": "LTU",
+    "demonym": "Lituano",
+    "demonym2": "Lituana"
+  },
+  {
+    "alpha": "LU",
+    "country": "Luxemburgo",
+    "iso": "Luxemburgo",
+    "numerical_code": 442,
+    "alpha2": "LUX",
+    "demonym": "Luxemburgués",
+    "demonym2": "Luxemburguesa"
+  },
+  {
+    "alpha": "MO",
+    "country": "Macao",
+    "iso": "Macao",
+    "numerical_code": 446,
+    "alpha2": "MAC",
+    "demonym": "Macaense",
+    "demonym2": "Macaense"
+  },
+  {
+    "alpha": "MK",
+    "country": "Macedonia",
+    "iso": "Macedonia (la ex República Yugoslava de)",
+    "numerical_code": 807,
+    "alpha2": "MKD",
+    "demonym": "Macedonio",
+    "demonym2": "Macedonia"
+  },
+  {
+    "alpha": "MG",
+    "country": "Madagascar",
+    "iso": "Madagascar",
+    "numerical_code": 450,
+    "alpha2": "MDG",
+    "demonym": "Malgache",
+    "demonym2": "Malgache"
+  },
+  {
+    "alpha": "MY",
+    "country": "Malasia",
+    "iso": "Malasia",
+    "numerical_code": 458,
+    "alpha2": "MYS",
+    "demonym": "Malasio",
+    "demonym2": "Malasia"
+  },
+  {
+    "alpha": "MW",
+    "country": "Malaui",
+    "iso": "Malawi",
+    "numerical_code": 454,
+    "alpha2": "MWI",
+    "demonym": "Malauí",
+    "demonym2": "Malauí"
+  },
+  {
+    "alpha": "MV",
+    "country": "Maldivas",
+    "iso": "Maldivas",
+    "numerical_code": 462,
+    "alpha2": "MDV",
+    "demonym": "Maldivo",
+    "demonym2": "Maldiva"
+  },
+  {
+    "alpha": "ML",
+    "country": "Malí",
+    "iso": "Malí",
+    "numerical_code": 466,
+    "alpha2": "MLI",
+    "demonym": "Maliense",
+    "demonym2": "Maliense"
+  },
+  {
+    "alpha": "MT",
+    "country": "Malta",
+    "iso": "Malta",
+    "numerical_code": 470,
+    "alpha2": "MLT",
+    "demonym": "Maltés",
+    "demonym2": "Maltés"
+  },
+  {
+    "alpha": "FK",
+    "country": "Islas Malvinas",
+    "iso": "Malvinas [Falkland], (las) Islas",
+    "numerical_code": 238,
+    "alpha2": "FLK",
+    "demonym": "Malvinense",
+    "demonym2": "Malvinense"
+  },
+  {
+    "alpha": "MP",
+    "country": "Islas Marianas del Norte",
+    "iso": "Marianas del Norte, (las) Islas",
+    "numerical_code": 580,
+    "alpha2": "MNP",
+    "demonym": "Chamorro",
+    "demonym2": "Chamorra"
+  },
+  {
+    "alpha": "MA",
+    "country": "Marruecos",
+    "iso": "Marruecos",
+    "numerical_code": 504,
+    "alpha2": "MAR",
+    "demonym": "Marroquí",
+    "demonym2": "Marroquí"
+  },
+  {
+    "alpha": "MH",
+    "country": "Islas Marshall",
+    "iso": "Marshall, (las) Islas",
+    "numerical_code": 584,
+    "alpha2": "MHL",
+    "demonym": "Marshalés",
+    "demonym2": "Marshalés"
+  },
+  {
+    "alpha": "MQ",
+    "country": "Martinica",
+    "iso": "Martinique",
+    "numerical_code": 474,
+    "alpha2": "MTQ",
+    "demonym": "Martiniqués",
+    "demonym2": "Martiniqués"
+  },
+  {
+    "alpha": "MU",
+    "country": "Mauricio",
+    "iso": "Mauricio",
+    "numerical_code": 480,
+    "alpha2": "MUS",
+    "demonym": "Mauriciano",
+    "demonym2": "Mauriciana"
+  },
+  {
+    "alpha": "MR",
+    "country": "Mauritania",
+    "iso": "Mauritania",
+    "numerical_code": 478,
+    "alpha2": "MRT",
+    "demonym": "Mauritano",
+    "demonym2": "Mauritana"
+  },
+  {
+    "alpha": "MX",
+    "country": "México",
+    "iso": "México",
+    "numerical_code": 484,
+    "alpha2": "MEX",
+    "demonym": "Mexicano",
+    "demonym2": "Mexicana"
+  },
+  {
+    "alpha": "FM",
+    "country": "Micronesia",
+    "iso": "Micronesia (Estados Federados de)",
+    "numerical_code": 583,
+    "alpha2": "FSM",
+    "demonym": "Micronesio",
+    "demonym2": "Micronesia"
+  },
+  {
+    "alpha": "MD",
+    "country": "Moldavia",
+    "iso": "Moldova (la República de)",
+    "numerical_code": 498,
+    "alpha2": "MDA",
+    "demonym": "Moldavo",
+    "demonym2": "Moldava"
+  },
+  {
+    "alpha": "MC",
+    "country": "Mónaco",
+    "iso": "Mónaco",
+    "numerical_code": 492,
+    "alpha2": "MCO",
+    "demonym": "Monegasco",
+    "demonym2": "Monegasca"
+  },
+  {
+    "alpha": "MN",
+    "country": "Mongolia",
+    "iso": "Mongolia",
+    "numerical_code": 496,
+    "alpha2": "MNG",
+    "demonym": "Mongol",
+    "demonym2": "Mongola"
+  },
+  {
+    "alpha": "ME",
+    "country": "Montenegro",
+    "iso": "Montenegro",
+    "numerical_code": 499,
+    "alpha2": "MNE",
+    "demonym": "Montenegrino",
+    "demonym2": "Montenegrina"
+  },
+  {
+    "alpha": "MS",
+    "country": "Montserrat",
+    "iso": "Montserrat",
+    "numerical_code": 500,
+    "alpha2": "MSR",
+    "demonym": "Monserratino",
+    "demonym2": "Monserratina"
+  },
+  {
+    "alpha": "MZ",
+    "country": "Mozambique",
+    "iso": "Mozambique",
+    "numerical_code": 508,
+    "alpha2": "MOZ",
+    "demonym": "Mozambiqueño",
+    "demonym2": "Mozambiqueña"
+  },
+  {
+    "alpha": "MM",
+    "country": "Myanmar",
+    "iso": "Myanmar",
+    "numerical_code": 104,
+    "alpha2": "MMR",
+    "demonym": "Birmano",
+    "demonym2": "Birmana"
+  },
+  {
+    "alpha": "NA",
+    "country": "Namibia",
+    "iso": "Namibia",
+    "numerical_code": 516,
+    "alpha2": "NAM",
+    "demonym": "Namibio",
+    "demonym2": "Namibia"
+  },
+  {
+    "alpha": "NR",
+    "country": "Nauru",
+    "iso": "Nauru",
+    "numerical_code": 520,
+    "alpha2": "NRU",
+    "demonym": "Nauruano",
+    "demonym2": "Nauruana"
+  },
+  {
+    "alpha": "CX",
+    "country": "Isla de Navidad",
+    "iso": "Navidad, Isla de",
+    "numerical_code": 162,
+    "alpha2": "CXR",
+    "demonym": "Navideño",
+    "demonym2": "Navideña"
+  },
+  {
+    "alpha": "NP",
+    "country": "Nepal",
+    "iso": "Nepal",
+    "numerical_code": 524,
+    "alpha2": "NPL",
+    "demonym": "Nepalés",
+    "demonym2": "Nepalés"
+  },
+  {
+    "alpha": "NI",
+    "country": "Nicaragua",
+    "iso": "Nicaragua",
+    "numerical_code": 558,
+    "alpha2": "NIC",
+    "demonym": "Nicaragüense",
+    "demonym2": "Nicaragüense"
+  },
+  {
+    "alpha": "NE",
+    "country": "Níger",
+    "iso": "Níger (el)",
+    "numerical_code": 562,
+    "alpha2": "NER",
+    "demonym": "Nigerino",
+    "demonym2": "Nigerina"
+  },
+  {
+    "alpha": "NG",
+    "country": "Nigeria",
+    "iso": "Nigeria",
+    "numerical_code": 566,
+    "alpha2": "NGA",
+    "demonym": "Nigeriano",
+    "demonym2": "Nigeriana"
+  },
+  {
+    "alpha": "NU",
+    "country": "Niue",
+    "iso": "Niue",
+    "numerical_code": 570,
+    "alpha2": "NIU",
+    "demonym": "Niueño",
+    "demonym2": "Niueña"
+  },
+  {
+    "alpha": "NO",
+    "country": "Noruega",
+    "iso": "Noruega",
+    "numerical_code": 578,
+    "alpha2": "NOR",
+    "demonym": "Noruego",
+    "demonym2": "Noruega"
+  },
+  {
+    "alpha": "NC",
+    "country": "Nueva Caledonia",
+    "iso": "Nueva Caledonia",
+    "numerical_code": 540,
+    "alpha2": "NCL",
+    "demonym": "Neocaledonio",
+    "demonym2": "Neocaledonia"
+  },
+  {
+    "alpha": "NZ",
+    "country": "Nueva Zelanda",
+    "iso": "Nueva Zelandia",
+    "numerical_code": 554,
+    "alpha2": "NZL",
+    "demonym": "Neozelandés",
+    "demonym2": "Neozelandesa"
+  },
+  {
+    "alpha": "OM",
+    "country": "Omán",
+    "iso": "Omán",
+    "numerical_code": 512,
+    "alpha2": "OMN",
+    "demonym": "Omaní",
+    "demonym2": "Omaní"
+  },
+  {
+    "alpha": "NL",
+    "country": "Países Bajos",
+    "iso": "Países Bajos (los)",
+    "numerical_code": 528,
+    "alpha2": "NLD",
+    "demonym": "Neerlandés",
+    "demonym2": "Neerlandés"
+  },
+  {
+    "alpha": "PK",
+    "country": "Pakistán",
+    "iso": "Pakistán",
+    "numerical_code": 586,
+    "alpha2": "PAK",
+    "demonym": "Pakistaní",
+    "demonym2": "Pakistaní"
+  },
+  {
+    "alpha": "PW",
+    "country": "Palaos",
+    "iso": "Palau",
+    "numerical_code": 585,
+    "alpha2": "PLW",
+    "demonym": "Palauano",
+    "demonym2": "Palauana"
+  },
+  {
+    "alpha": "PS",
+    "country": "Palestina",
+    "iso": "Palestina, Estado de",
+    "numerical_code": 275,
+    "alpha2": "PSE",
+    "demonym": "Palestino",
+    "demonym2": "Palestina"
+  },
+  {
+    "alpha": "PA",
+    "country": "Panamá",
+    "iso": "Panamá",
+    "numerical_code": 591,
+    "alpha2": "PAN",
+    "demonym": "Panameño",
+    "demonym2": "Panameña"
+  },
+  {
+    "alpha": "PG",
+    "country": "Papúa Nueva Guinea",
+    "iso": "Papua Nueva Guinea",
+    "numerical_code": 598,
+    "alpha2": "PNG",
+    "demonym": "Papú",
+    "demonym2": "Papú"
+  },
+  {
+    "alpha": "PY",
+    "country": "Paraguay",
+    "iso": "Paraguay",
+    "numerical_code": 600,
+    "alpha2": "PRY",
+    "demonym": "Paraguayo",
+    "demonym2": "Paraguaya"
+  },
+  {
+    "alpha": "PE",
+    "country": "Perú",
+    "iso": "Perú",
+    "numerical_code": 604,
+    "alpha2": "PER",
+    "demonym": "Peruano",
+    "demonym2": "Peruana"
+  },
+  {
+    "alpha": "PN",
+    "country": "Islas Pitcairn",
+    "iso": "Pitcairn",
+    "numerical_code": 612,
+    "alpha2": "PCN",
+    "demonym": "Pitcairnés",
+    "demonym2": "Pitcairnés"
+  },
+  {
+    "alpha": "PF",
+    "country": "Polinesia Francesa",
+    "iso": "Polinesia Francesa",
+    "numerical_code": 258,
+    "alpha2": "PYF",
+    "demonym": "Francopolinesio",
+    "demonym2": "Francopolinesia"
+  },
+  {
+    "alpha": "PL",
+    "country": "Polonia",
+    "iso": "Polonia",
+    "numerical_code": 616,
+    "alpha2": "POL",
+    "demonym": "Polaco",
+    "demonym2": "Polaca"
+  },
+  {
+    "alpha": "PT",
+    "country": "Portugal",
+    "iso": "Portugal",
+    "numerical_code": 620,
+    "alpha2": "PRT",
+    "demonym": "Portugués",
+    "demonym2": "Portugués"
+  },
+  {
+    "alpha": "PR",
+    "country": "Puerto Rico",
+    "iso": "Puerto Rico",
+    "numerical_code": 630,
+    "alpha2": "PRI",
+    "demonym": "Puertorriqueño",
+    "demonym2": "Puertorriqueña"
+  },
+  {
+    "alpha": "QA",
+    "country": "Catar",
+    "iso": "Qatar",
+    "numerical_code": 634,
+    "alpha2": "QAT",
+    "demonym": "Catarí",
+    "demonym2": "Catarí"
+  },
+  {
+    "alpha": "GB",
+    "country": "Reino Unido",
+    "iso": "Reino Unido de Gran Bretaña e Irlanda del Norte (e",
+    "numerical_code": 826,
+    "alpha2": "GBR",
+    "demonym": "Británico",
+    "demonym2": "Británica"
+  },
+  {
+    "alpha": "SY",
+    "country": "Siria",
+    "iso": "República Árabe Siria",
+    "numerical_code": 760,
+    "alpha2": "SYR",
+    "demonym": "Sirio",
+    "demonym2": "Siria"
+  },
+  {
+    "alpha": "CF",
+    "country": "República Centroafricana",
+    "iso": "República Centroafricana (la)",
+    "numerical_code": 140,
+    "alpha2": "CAF",
+    "demonym": "Centroafricano",
+    "demonym2": "Centroafricana"
+  },
+  {
+    "alpha": "RO",
+    "country": "Rumania",
+    "iso": "Rumania",
+    "numerical_code": 642,
+    "alpha2": "ROU",
+    "demonym": "Rumano",
+    "demonym2": "Rumana"
+  },
+  {
+    "alpha": "RU",
+    "country": "Rusia",
+    "iso": "Rusia, (la) Federación de",
+    "numerical_code": 643,
+    "alpha2": "RUS",
+    "demonym": "Ruso",
+    "demonym2": "Rusa"
+  },
+  {
+    "alpha": "RW",
+    "country": "Ruanda",
+    "iso": "Rwanda",
+    "numerical_code": 646,
+    "alpha2": "RWA",
+    "demonym": "Ruandés",
+    "demonym2": "Ruandesa"
+  },
+  {
+    "alpha": "EH",
+    "country": "República Árabe Saharaui Democrática",
+    "iso": "Sahara Occidental",
+    "numerical_code": 732,
+    "alpha2": "ESH",
+    "demonym": "Saharaui",
+    "demonym2": "Saharaui"
+  },
+  {
+    "alpha": "BL",
+    "country": "San Bartolomé",
+    "iso": "Saint Barthélemy",
+    "numerical_code": 652,
+    "alpha2": "BLM",
+    "demonym": "Sanbartolomeano",
+    "demonym2": "Sanbartolomeana"
+  },
+  {
+    "alpha": "KN",
+    "country": "San Cristóbal y Nieves",
+    "iso": "Saint Kitts y Nevis",
+    "numerical_code": 659,
+    "alpha2": "KNA",
+    "demonym": "Sancristobaleño",
+    "demonym2": "Sancristobaleña"
+  },
+  {
+    "alpha": "MF",
+    "country": "San Martín",
+    "iso": "Saint Martin (parte francesa)",
+    "numerical_code": 663,
+    "alpha2": "MAF",
+    "demonym": "Sanmartitense",
+    "demonym2": "Sanmartitense"
+  },
+  {
+    "alpha": "SB",
+    "country": "Islas Salomón",
+    "iso": "Salomón, Islas",
+    "numerical_code": 90,
+    "alpha2": "SLB",
+    "demonym": "Salomonense",
+    "demonym2": "Salomonense"
+  },
+  {
+    "alpha": "WS",
+    "country": "Samoa",
+    "iso": "Samoa",
+    "numerical_code": 882,
+    "alpha2": "WSM",
+    "demonym": "Samoano",
+    "demonym2": "Samoana"
+  },
+  {
+    "alpha": "AS",
+    "country": "Samoa Americana",
+    "iso": "Samoa Americana",
+    "numerical_code": 16,
+    "alpha2": "ASM",
+    "demonym": "Samoamericano",
+    "demonym2": "Samoamericana"
+  },
+  {
+    "alpha": "SM",
+    "country": "San Marino",
+    "iso": "San Marino",
+    "numerical_code": 674,
+    "alpha2": "SMR",
+    "demonym": "Sanmarinense",
+    "demonym2": "Sanmarinense"
+  },
+  {
+    "alpha": "PM",
+    "country": "San Pedro y Miquelón",
+    "iso": "San Pedro y Miquelón",
+    "numerical_code": 666,
+    "alpha2": "SPM",
+    "demonym": "Sanpedrino",
+    "demonym2": "Sanpedrina"
+  },
+  {
+    "alpha": "SH",
+    "country": "Santa Elena, Ascensión y Tristán de Acuña",
+    "iso": "Santa Helena, Ascensión y Tristán de Acuña",
+    "numerical_code": 654,
+    "alpha2": "SHN",
+    "demonym": "Santaheleno",
+    "demonym2": "Santahelena"
+  },
+  {
+    "alpha": "LC",
+    "country": "Santa Lucía",
+    "iso": "Santa Lucía",
+    "numerical_code": 662,
+    "alpha2": "LCA",
+    "demonym": "Santalucense",
+    "demonym2": "Santalucense"
+  },
+  {
+    "alpha": "VA",
+    "country": "Vaticano, Ciudad del",
+    "iso": "Santa Sede (la)",
+    "numerical_code": 336,
+    "alpha2": "VAT",
+    "demonym": "Vaticano",
+    "demonym2": "Vaticana"
+  },
+  {
+    "alpha": "ST",
+    "country": "Santo Tomé y Príncipe",
+    "iso": "Santo Tomé y Príncipe",
+    "numerical_code": 678,
+    "alpha2": "STP",
+    "demonym": "Santotomense",
+    "demonym2": "Santotomense"
+  },
+  {
+    "alpha": "VC",
+    "country": "San Vicente y las Granadinas",
+    "iso": "San Vicente y las Granadinas",
+    "numerical_code": 670,
+    "alpha2": "VCT",
+    "demonym": "Sanvicentino",
+    "demonym2": "Sanvicentina"
+  },
+  {
+    "alpha": "SN",
+    "country": "Senegal",
+    "iso": "Senegal",
+    "numerical_code": 686,
+    "alpha2": "SEN",
+    "demonym": "Senegalés",
+    "demonym2": "Senegalesa"
+  },
+  {
+    "alpha": "RS",
+    "country": "Serbia",
+    "iso": "Serbia",
+    "numerical_code": 688,
+    "alpha2": "SRB",
+    "demonym": "Serbio",
+    "demonym2": "Serbia"
+  },
+  {
+    "alpha": "SC",
+    "country": "Seychelles",
+    "iso": "Seychelles",
+    "numerical_code": 690,
+    "alpha2": "SYC",
+    "demonym": "Seychellense",
+    "demonym2": "Seychellense"
+  },
+  {
+    "alpha": "SL",
+    "country": "Sierra Leona",
+    "iso": "Sierra leona",
+    "numerical_code": 694,
+    "alpha2": "SLE",
+    "demonym": "Sierraleonés",
+    "demonym2": "Sierraleonesa"
+  },
+  {
+    "alpha": "SG",
+    "country": "Singapur",
+    "iso": "Singapur",
+    "numerical_code": 702,
+    "alpha2": "SGP",
+    "demonym": "Singapurense",
+    "demonym2": "Singapurense"
+  },
+  {
+    "alpha": "SX",
+    "country": "Sint Maarten",
+    "iso": "Sint Maarten (parte neerlandesa)",
+    "numerical_code": 534,
+    "alpha2": "SXM",
+    "demonym": "Sanmartitense",
+    "demonym2": "Sanmartitense"
+  },
+  {
+    "alpha": "SO",
+    "country": "Somalia",
+    "iso": "Somalia",
+    "numerical_code": 706,
+    "alpha2": "SOM",
+    "demonym": "Somalí",
+    "demonym2": "Somalí"
+  },
+  {
+    "alpha": "LK",
+    "country": "Sri Lanka",
+    "iso": "Sri Lanka",
+    "numerical_code": 144,
+    "alpha2": "LKA",
+    "demonym": "Ceilanés",
+    "demonym2": "Ceilanés"
+  },
+  {
+    "alpha": "ZA",
+    "country": "Sudáfrica",
+    "iso": "Sudáfrica",
+    "numerical_code": 710,
+    "alpha2": "ZAF",
+    "demonym": "Sudafricano",
+    "demonym2": "Sudafricana"
+  },
+  {
+    "alpha": "SS",
+    "country": "Sudán del Sur",
+    "iso": "Sudán del Sur",
+    "numerical_code": 728,
+    "alpha2": "SSD",
+    "demonym": "Sursudanés",
+    "demonym2": "Sursudanesa"
+  },
+  {
+    "alpha": "SD",
+    "country": "Sudán",
+    "iso": "Sudán (el)",
+    "numerical_code": 729,
+    "alpha2": "SDN",
+    "demonym": "Sudanés",
+    "demonym2": "Sudanesa"
+  },
+  {
+    "alpha": "SE",
+    "country": "Suecia",
+    "iso": "Suecia",
+    "numerical_code": 752,
+    "alpha2": "SWE",
+    "demonym": "Sueco",
+    "demonym2": "Sueca"
+  },
+  {
+    "alpha": "CH",
+    "country": "Suiza",
+    "iso": "Suiza",
+    "numerical_code": 756,
+    "alpha2": "CHE",
+    "demonym": "Suizo",
+    "demonym2": "Suiza"
+  },
+  {
+    "alpha": "SR",
+    "country": "Surinam",
+    "iso": "Suriname",
+    "numerical_code": 740,
+    "alpha2": "SUR",
+    "demonym": "Surinamés",
+    "demonym2": "Surinamesa"
+  },
+  {
+    "alpha": "SZ",
+    "country": "Suazilandia",
+    "iso": "Swazilandia",
+    "numerical_code": 748,
+    "alpha2": "SWZ",
+    "demonym": "Suazi",
+    "demonym2": "Suazi"
+  },
+  {
+    "alpha": "TH",
+    "country": "Tailandia",
+    "iso": "Tailandia",
+    "numerical_code": 764,
+    "alpha2": "THA",
+    "demonym": "Tailandés",
+    "demonym2": "Tailandesa"
+  },
+  {
+    "alpha": "TW",
+    "country": "Taiwán (República de China)",
+    "iso": "Taiwán (Provincia de China)",
+    "numerical_code": 158,
+    "alpha2": "TWN",
+    "demonym": "Taiwanés",
+    "demonym2": "Taiwanés"
+  },
+  {
+    "alpha": "TZ",
+    "country": "Tanzania",
+    "iso": "Tanzania, República Unida de",
+    "numerical_code": 834,
+    "alpha2": "TZA",
+    "demonym": "Tanzano",
+    "demonym2": "Tanzana"
+  },
+  {
+    "alpha": "TJ",
+    "country": "Tayikistán",
+    "iso": "Tayikistán",
+    "numerical_code": 762,
+    "alpha2": "TJK",
+    "demonym": "Tayiko",
+    "demonym2": "Tayika"
+  },
+  {
+    "alpha": "TL",
+    "country": "Timor Oriental",
+    "iso": "Timor-Leste",
+    "numerical_code": 626,
+    "alpha2": "TLS",
+    "demonym": "Timorense",
+    "demonym2": "Timorense"
+  },
+  {
+    "alpha": "TG",
+    "country": "Togo",
+    "iso": "Togo",
+    "numerical_code": 768,
+    "alpha2": "TGO",
+    "demonym": "Togolés",
+    "demonym2": "Togolesa"
+  },
+  {
+    "alpha": "TK",
+    "country": "Tokelau",
+    "iso": "Tokelau",
+    "numerical_code": 772,
+    "alpha2": "TKL",
+    "demonym": "Tokelauense",
+    "demonym2": "Tokelauense"
+  },
+  {
+    "alpha": "TO",
+    "country": "Tonga",
+    "iso": "Tonga",
+    "numerical_code": 776,
+    "alpha2": "TON",
+    "demonym": "Tongano",
+    "demonym2": "Tongana"
+  },
+  {
+    "alpha": "TT",
+    "country": "Trinidad y Tobago",
+    "iso": "Trinidad y Tobago",
+    "numerical_code": 780,
+    "alpha2": "TTO",
+    "demonym": "Trinitense",
+    "demonym2": "Trinitense"
+  },
+  {
+    "alpha": "TN",
+    "country": "Túnez",
+    "iso": "Túnez",
+    "numerical_code": 788,
+    "alpha2": "TUN",
+    "demonym": "Tunecino",
+    "demonym2": "Tunecina"
+  },
+  {
+    "alpha": "TC",
+    "country": "Islas Turcas y Caicos",
+    "iso": "Turcas y Caicos, (las) Islas",
+    "numerical_code": 796,
+    "alpha2": "TCA",
+    "demonym": "Turcocaiqueño",
+    "demonym2": "Turcocaiqueña"
+  },
+  {
+    "alpha": "TM",
+    "country": "Turkmenistán",
+    "iso": "Turkmenistán",
+    "numerical_code": 795,
+    "alpha2": "TKM",
+    "demonym": "Turcomano",
+    "demonym2": "Turcomana"
+  },
+  {
+    "alpha": "TR",
+    "country": "Turquía",
+    "iso": "Turquía",
+    "numerical_code": 792,
+    "alpha2": "TUR",
+    "demonym": "Turco",
+    "demonym2": "Turca"
+  },
+  {
+    "alpha": "TV",
+    "country": "Tuvalu",
+    "iso": "Tuvalu",
+    "numerical_code": 798,
+    "alpha2": "TUV",
+    "demonym": "Tuvaluano",
+    "demonym2": "Tuvaluana"
+  },
+  {
+    "alpha": "UA",
+    "country": "Ucrania",
+    "iso": "Ucrania",
+    "numerical_code": 804,
+    "alpha2": "UKR",
+    "demonym": "Ucraniano",
+    "demonym2": "Ucraniana"
+  },
+  {
+    "alpha": "UG",
+    "country": "Uganda",
+    "iso": "Uganda",
+    "numerical_code": 800,
+    "alpha2": "UGA",
+    "demonym": "Ugandés",
+    "demonym2": "Ugandesa"
+  },
+  {
+    "alpha": "UY",
+    "country": "Uruguay",
+    "iso": "Uruguay",
+    "numerical_code": 858,
+    "alpha2": "URY",
+    "demonym": "Uruguayo",
+    "demonym2": "Uruguaya"
+  },
+  {
+    "alpha": "UZ",
+    "country": "Uzbekistán",
+    "iso": "Uzbekistán",
+    "numerical_code": 860,
+    "alpha2": "UZB",
+    "demonym": "Uzbeko",
+    "demonym2": "Uzbeka"
+  },
+  {
+    "alpha": "VU",
+    "country": "Vanuatu",
+    "iso": "Vanuatu",
+    "numerical_code": 548,
+    "alpha2": "VUT",
+    "demonym": "Vanuatuense",
+    "demonym2": "Vanuatuense"
+  },
+  {
+    "alpha": "VE",
+    "country": "Venezuela",
+    "iso": "Venezuela (República Bolivariana de)",
+    "numerical_code": 862,
+    "alpha2": "VEN",
+    "demonym": "Venezolano",
+    "demonym2": "Venezolana"
+  },
+  {
+    "alpha": "VN",
+    "country": "Vietnam",
+    "iso": "Viet Nam",
+    "numerical_code": 704,
+    "alpha2": "VNM",
+    "demonym": "Vietnamita",
+    "demonym2": "Vietnamita"
+  },
+  {
+    "alpha": "VG",
+    "country": "Islas Vírgenes Británicas",
+    "iso": "Vírgenes británicas, Islas",
+    "numerical_code": 92,
+    "alpha2": "VGB",
+    "demonym": "Virgenense",
+    "demonym2": "Virgenense"
+  },
+  {
+    "alpha": "VI",
+    "country": "Islas Vírgenes de los Estados Unidos",
+    "iso": "Vírgenes de los Estados Unidos, Islas",
+    "numerical_code": 850,
+    "alpha2": "VIR",
+    "demonym": "Virgenense",
+    "demonym2": "Virgenense"
+  },
+  {
+    "alpha": "WF",
+    "country": "Wallis y Futuna",
+    "iso": "Wallis y Futuna",
+    "numerical_code": 876,
+    "alpha2": "WLF",
+    "demonym": "Walisiano",
+    "demonym2": "Walisiana"
+  },
+  {
+    "alpha": "YE",
+    "country": "Yemen",
+    "iso": "Yemen",
+    "numerical_code": 887,
+    "alpha2": "YEM",
+    "demonym": "Yemení",
+    "demonym2": "Yemení"
+  },
+  {
+    "alpha": "ZM",
+    "country": "Zambia",
+    "iso": "Zambia",
+    "numerical_code": 894,
+    "alpha2": "ZMB",
+    "demonym": "Zambiano",
+    "demonym2": "Zambiana"
+  },
+  {
+    "alpha": "ZW",
+    "country": "Zimbabue",
+    "iso": "Zimbabwe",
+    "numerical_code": 716,
+    "alpha2": "ZWE",
+    "demonym": "Zimbabuense",
+    "demonym2": "Zimbabuense"
+  }
+]

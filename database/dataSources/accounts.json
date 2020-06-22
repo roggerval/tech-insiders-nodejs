@@ -1,0 +1,23 @@
+[
+  {
+    "id": "38bf7011-813f-4b48-bfe6-dda74f111bb7",
+    "name": "Administrators",
+    "display_name": "The Administrators",
+    "max_users": null,
+    "organization_scp_id": "9852648f-e7d9-4723-806f-acf72f58fecd"
+  },
+  {
+    "id": "a4829372-8b9d-4674-a8f6-48d77569b2a4",
+    "name": "Test",
+    "display_name": "The Testers",
+    "max_users": 20,
+    "organization_scp_id": "ddf20b9c-da80-4cec-8f37-cabe741341af"
+  },
+  {
+    "id": "0e6472f0-f9e0-4d24-8310-6167797e0c84",
+    "name": "Others",
+    "display_name": "The Others",
+    "max_users": 10,
+    "organization_scp_id": "f51a9391-e824-4261-8a3a-689f83640116"
+  }
+]
