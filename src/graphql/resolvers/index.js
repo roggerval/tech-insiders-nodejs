@@ -8,6 +8,7 @@ import accountQuery from './queries/account';
 import accountUserQuery from './queries/accountUser';
 
 // mutations
+import policyMutation from './mutations/policy';
 import userMutation from './mutations/user';
 import accountMutation from './mutations/account';
 import accountUserMutation from './mutations/accountUser';
@@ -21,6 +22,7 @@ const resolversArray = [
   accountUserQuery,
 
   // Mutations
+  policyMutation,
   userMutation,
   accountMutation,
   accountUserMutation
