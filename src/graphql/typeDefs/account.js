@@ -53,5 +53,7 @@ export default gql`
     websiteUrl: String
     organizationScpId: ID
     status: String
+    AccountUsers: [AccountUser]
+    OrganizationSCP: Policy
   }
 `;

@@ -43,5 +43,8 @@ export default gql`
     accountId: ID
     identityPolicyId: ID
     status: String
+    IdentityPolicy: Policy
+    User: User
+    Account: Account
   }
 `;

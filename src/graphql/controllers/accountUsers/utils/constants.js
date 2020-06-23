@@ -1,6 +1,7 @@
 const ACCOUNT_USER_MAPPINGS = {
   Account: 'accountId',
-  User: 'userId'
+  User: 'userId',
+  IdentityPolicy: 'identityPolicyId'
 };
 
 export { ACCOUNT_USER_MAPPINGS };

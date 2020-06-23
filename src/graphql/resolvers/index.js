@@ -13,7 +13,17 @@ import userMutation from './mutations/user';
 import accountMutation from './mutations/account';
 import accountUserMutation from './mutations/accountUser';
 
+// mappings
+import userMapping from './mappings/user';
+import accountMapping from './mappings/account';
+import accountUserMapping from './mappings/accountUser';
+
 const resolversArray = [
+  // Mappings
+  userMapping,
+  accountMapping,
+  accountUserMapping,
+
   // Queries
   nationalityQuery,
   policyQuery,

@@ -98,5 +98,6 @@ export default gql`
     phoneNumber: String
     nationalityId: ID
     status: String
+    Nationality: Nationality
   }
 `;
