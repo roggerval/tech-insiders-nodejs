@@ -27,6 +27,10 @@ export default gql`
       identityPolicyId: ID!
       status: String
     ): AccountUser
+      @hasPermission(action: "create", resource: "userManage:accountUsers")
+      @getAccount
+      @getAccountUser
+      @getUser
     updateAccountUser(
       id: ID!
       userId: ID
@@ -34,7 +38,15 @@ export default gql`
       identityPolicyId: ID
       status: String
     ): AccountUser
+      @hasPermission(action: "update", resource: "userManage:accountUsers")
+      @getAccount
+      @getAccountUser
+      @getUser
     deleteAccountUser(id: ID!): AccountUser
+      @hasPermission(action: "delete", resource: "userManage:accountUsers")
+      @getAccount
+      @getAccountUser
+      @getUser
   }
 
   type AccountUser {

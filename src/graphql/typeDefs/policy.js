@@ -3,6 +3,10 @@ import { gql } from 'apollo-server';
 export default gql`
   type Query {
     getPolicyById(id: ID!): Policy
+      @hasPermission(action: "getById", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
     getPoliciesBy(
       name: String
       status: String
@@ -10,8 +14,20 @@ export default gql`
       offset: Int
       limit: Int
     ): [Policy]
+      @hasPermission(action: "getBy", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
     getAllPolicies(offset: Int, limit: Int): [Policy]
+      @hasPermission(action: "getAll", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
     getCountPoliciesBy(name: String, status: String, description: String): Int
+      @hasPermission(action: "getCountBy", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
   }
 
   type Mutation {
@@ -21,6 +37,10 @@ export default gql`
       permissions: [PermissionInput!]!
       statusId: Int
     ): Policy
+      @hasPermission(action: "create", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
     updatePolicy(
       id: ID!
       name: String
@@ -28,7 +48,15 @@ export default gql`
       permissions: [PermissionInput!]
       statusId: Int
     ): Policy
+      @hasPermission(action: "update", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
     deletePolicy(id: ID!): Policy
+      @hasPermission(action: "delete", resource: "roles:policies")
+      @getAccount
+      @getAccountUser
+      @getUser
   }
 
   type Policy {
