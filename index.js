@@ -1,19 +1,5 @@
-import { ApolloServer, gql } from 'apollo-server';
-
-const typeDefs = gql`
-  # Este es un comentario
-  type User {
-    names: String
-    lastNames: String
-  }
-
-  """
-  Este es otro comentario
-  """
-  type Query {
-    users: [User]
-  }
-`;
+import { ApolloServer } from 'apollo-server';
+import { typeDefs } from './src/graphql/typeDefs';
 
 const server = new ApolloServer({ typeDefs });
 
