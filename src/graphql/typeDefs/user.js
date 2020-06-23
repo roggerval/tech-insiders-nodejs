@@ -42,6 +42,41 @@ export default gql`
     ): [User]
   }
 
+  type Mutation {
+    createUser(
+      name: String
+      password: String!
+      email: String!
+      nickname: String
+      firstName: String
+      lastName1: String
+      lastName2: String
+      addressLine1: String
+      addressLine2: String
+      imageUrl: String
+      phoneNumber: String
+      nationalityId: ID
+      status: String
+    ): User
+    updateUser(
+      id: ID!
+      name: String
+      password: String
+      email: String
+      nickname: String
+      firstName: String
+      lastName1: String
+      lastName2: String
+      addressLine1: String
+      addressLine2: String
+      imageUrl: String
+      phoneNumber: String
+      nationalityId: ID
+      status: String
+    ): User
+    deleteUser(id: ID!): User
+  }
+
   # Este es un comentario
   """
   Este comentario sirve para documentar el type

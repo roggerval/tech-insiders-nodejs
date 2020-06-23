@@ -20,6 +20,23 @@ export default gql`
     ): Int
   }
 
+  type Mutation {
+    createAccountUser(
+      userId: ID!
+      accountId: ID!
+      identityPolicyId: ID!
+      status: String
+    ): AccountUser
+    updateAccountUser(
+      id: ID!
+      userId: ID
+      accountId: ID
+      identityPolicyId: ID
+      status: String
+    ): AccountUser
+    deleteAccountUser(id: ID!): AccountUser
+  }
+
   type AccountUser {
     id: ID
     userId: ID
