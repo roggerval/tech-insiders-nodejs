@@ -19,7 +19,7 @@ Nota: cada punto estara en un branch como: feature/1 por ejemplo correspondería
 1. Clona el repositorio
 
 ```bash
-git clone git@.git
+git clone git@github.com:roggerval/tech-insiders-nodejs.git
 ```
 
 2. Instala las dependencias
