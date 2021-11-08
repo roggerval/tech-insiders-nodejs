@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/roggerval/tech-insiders-nodejs#readme",
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^14.6.0",
     "graphql-fields": "^2.0.3",
     "iam-policies": "3.3.0",
